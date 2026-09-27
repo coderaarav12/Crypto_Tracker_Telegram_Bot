@@ -1,0 +1,13 @@
+[Unit]
+Description=Crypto Tracker Backend API
+After=network.target
+
+[Service]
+User=root
+WorkingDirectory=/opt/Crypto_Tracker_Telegram_Bot
+Environment="PATH=/opt/Crypto_Tracker_Telegram_Bot/venv/bin"
+ExecStart=/opt/Crypto_Tracker_Telegram_Bot/venv/bin/python api_server.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
