@@ -2,7 +2,7 @@
 
 # 📈 Crypto & Stock Tracker Telegram Bot
 
-An advanced, AI-powered financial assistant bringing Wall Street and the Blockchain directly into your Telegram chat. 
+An advanced, automated financial assistant bringing Wall Street and the Blockchain directly into your Telegram chat. 
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
@@ -44,7 +44,7 @@ The **Crypto & Stock Tracker Telegram Bot** is a high-performance microservice a
 * 🏢 **Global Equities Tracking:** Integrated with Yahoo Finance to pull live market data for thousands of global publicly traded companies.
 * 📉 **Interactive Visualizations:** Dynamically generates beautiful, dark-themed 7-Day and 30-Day graphical charts for market trends.
 * 📰 **Real-Time Market News:** Aggregates top financial headlines and breaking news for specific assets.
-* 🧠 **Conversational AI Engine:** Talk naturally! The built-in NLP engine strips out stop words and understands phrases like *"What is the price of Bitcoin?"* or *"Show me a chart for Tesla"*.
+* 🧠 **Conversational NLP Engine:** Talk naturally! The built-in NLP engine strips out stop words and understands phrases like *"What is the price of Bitcoin?"* or *"Show me a chart for Tesla"*.
 * 🧭 **Market Sentiment Tracking:** Monitors the global Fear & Greed index in real-time.
 
 ---
